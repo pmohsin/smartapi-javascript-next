@@ -1,6 +1,6 @@
 {
   "name": "smartapi-javascript-next",
-  "version": "1.0.14.5",
+  "version": "1.0.14.6",
   "description": "",
   "main": "./lib/",
   "scripts": {
